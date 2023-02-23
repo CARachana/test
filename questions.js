@@ -1,7 +1,7 @@
 const quiz =[
 	
 	{
-		q:"How many companies are listed on the BSE?",
+		q:"How many are listed on the BSE?",
 		options:["7719", "5323", "6819"],
 		answer:1
 	},
